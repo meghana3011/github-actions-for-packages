@@ -6,7 +6,7 @@
 
 #tictactoe td {
   min-height: 100px;
-  min-width: 100px;
+  min-width: 1000px;
   height: 100px;
   width: 100px;
   text-align: center;
